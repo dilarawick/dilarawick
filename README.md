@@ -77,7 +77,10 @@
 </p>
 
 ---
-![snake animation](https://raw.githubusercontent.com/dilarawick/dilarawick/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dilarawick/dilarawick/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 ## 🌐 Connect With Me
