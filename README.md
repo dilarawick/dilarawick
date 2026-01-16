@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java application**
-
 - 🌱 I’m currently learning **Spring Boot,Flutter**
 
 - 👯 I’m looking to collaborate on **machine learning**
@@ -19,7 +17,6 @@
 
 - 📫 How to reach me **dilarawickramanayake@gmail.com**
 
-- ⚡ Fun fact **I have a good humour!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
