@@ -53,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilarawick&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilarawick&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilarawick&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,8 +80,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7F9CF5&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dilarawick&label=Profile%20Views&color=7F9CF5&style=flat" />
 </p>
 
-✨ *“Code with curiosity. Build with purpose.”*
+
 
