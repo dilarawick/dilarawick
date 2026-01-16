@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=7F9CF5&center=true&vCenter=true&width=500&lines=Hi+I'm+Dilara+👋;Software+Engineering+Undergraduate;Aspiring+Computer+Scientist;I+Love+Problem+Solving+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1200&color=7F9CF5&center=true&vCenter=true&width=520&lines=Hi+I'm+Dilara;Software+Engineering+Undergraduate;Aspiring+Computer+Scientist;Problem+Solver" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F9CF5&height=2&section=header" />
 </p>
 
 
@@ -74,6 +77,8 @@
 </p>
 
 ---
+![snake animation](https://raw.githubusercontent.com/dilarawick/dilarawick/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Connect With Me
 
