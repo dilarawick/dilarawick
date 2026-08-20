@@ -16,17 +16,17 @@
 
 ##  About Me
 
- **Software Engineering Undergraduate**  
- **Aspiring Computer Scientist**  
- Passionate about **OOP, databases, and system design**  
- Also bring a **design sensibility** to my builds — Figma & Photoshop alongside code  
- Always learning, building, and improving
+**Software Engineering Undergraduate**  
+**Aspiring Computer Scientist**  
+Passionate about **OOP, databases, and system design**  
+Also bring a **design sensibility** to my builds — Figma & Photoshop alongside code  
+Always learning, building, and improving
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-###  Web & Frameworks
+### Web & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-###  Databases & Cloud
+### Databases & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
 </p>
 
-###  Tools
+### Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -92,17 +92,24 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilarawick&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilarawick&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilarawick&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F9CF5&icon_color=7F9CF5&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilarawick&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F9CF5&ring=7F9CF5&fire=7F9CF5&currStreakLabel=7F9CF5" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilarawick&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilarawick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F9CF5&text_color=c9d1d9&langs_count=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilarawick&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F9CF5&text_color=c9d1d9&layout=compact" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilarawick&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilarawick&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F9CF5&line=7F9CF5&point=ffffff&area=true&area_color=7F9CF5" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dilarawick&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+</p>
+
+> **Note:** if any card above shows a broken-image icon, it usually just means GitHub's cache hasn't refreshed yet, or the username needs to match your GitHub handle exactly — reloading the page (or waiting a few minutes after your first commit of the day) fixes most of these.
 
 ---
 
@@ -112,7 +119,7 @@
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/dilarawick">
