@@ -109,8 +109,6 @@ Always learning, building, and improving
   <img src="https://github-profile-trophy.vercel.app/?username=dilarawick&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </p>
 
-> **Note:** if any card above shows a broken-image icon, it usually just means GitHub's cache hasn't refreshed yet, or the username needs to match your GitHub handle exactly — reloading the page (or waiting a few minutes after your first commit of the day) fixes most of these.
-
 ---
 
 <p align="center">
